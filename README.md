@@ -1,17 +1,17 @@
 # ShogiAIBook2
 
 ## 第4章のノートブック
-[Google Colabで開く](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook/blob/main/notebook/train_mnist.ipynb)
+[Google Colabで開く](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/train_mnist.ipynb)
 
-### 書籍で対応する箇所
+書籍で対応する箇所
 
 - 4.5. PyTorchの基本
 
 ## 第5章のノートブック
 
-[Google Colabで開く](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook/blob/main/notebook/python-dlshogi2.ipynb)
+[Google Colabで開く](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/python-dlshogi2.ipynb)
 
-### 書籍で対応する箇所
+書籍で対応する箇所
 
 - 5.1. 将棋ライブラリcshogi
 - 5.2. ソースコードとモジュールインストール
