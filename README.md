@@ -29,3 +29,10 @@
 
 - 6.3. dlshogiライブラリを使用したモデルの学習 (6.3.3. ノートブックの実行)
 
+## 対局
+
+[Google Colabで開く](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/match.ipynb)
+
+書籍で対応する箇所
+
+- 6.4. 対局
