@@ -1,7 +1,7 @@
 # ShogiAIBook2
 
 ## 第4章のノートブック
-[Google Colabで開く](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/train_mnist.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/train_mnist.ipynb)
 
 書籍で対応する箇所
 
@@ -9,7 +9,7 @@
 
 ## 第5章のノートブック
 
-[Google Colabで開く](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/python-dlshogi2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/python-dlshogi2.ipynb)
 
 書籍で対応する箇所
 
@@ -23,7 +23,7 @@
 
 ## モデルの学習
 
-[Google Colabで開く](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/train.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/train.ipynb)
 
 書籍で対応する箇所
 
@@ -31,7 +31,7 @@
 
 ## 対局
 
-[Google Colabで開く](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/match.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/match.ipynb)
 
 書籍で対応する箇所
 
