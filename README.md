@@ -1,4 +1,4 @@
-# ShogiAIBook2
+# 強い将棋ソフトの創りかた
 
 ## 第4章のノートブック
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TadaoYamaoka/ShogiAIBook2/blob/main/notebook/train_mnist.ipynb)
